@@ -7,7 +7,7 @@ Code for finetuning pretrained BERT for SRL task and making predicitons
 
 >pip install -r requirements.txt
 
-2.In the terminal :
+2. In the terminal :
 
 >python train.py --epochs int --batch_size int --learning_rate float
 example:
@@ -15,10 +15,10 @@ example:
 
 ## Running instructions for predict.py
 
-1.If you haven't already installed the rwquired libraries:
+1. If you haven't already installed the rwquired libraries:
 >pip install -r requirements.txt
 
-2.In the terminal :
+2. In the terminal :
 
 >python predict.py  --batch_size int 
 example:
