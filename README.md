@@ -9,8 +9,10 @@ Code for finetuning pretrained BERT for SRL task and making predicitons
 
 2. In the terminal :
 
->python train.py --epochs int --batch_size int --learning_rate float         
-example:
+>python train.py --epochs int --batch_size int --learning_rate float                    
+
+example:                     
+
 >python train.py --epochs 2 --batch_size 4 --learning_rate 1e-4
 
 ## Running instructions for predict.py
@@ -20,6 +22,8 @@ example:
 
 2. In the terminal :
 
->python predict.py  --batch_size int              
+>python predict.py  --batch_size int          
+            
 example:
+
 >python predict.py  --batch_size 4 
