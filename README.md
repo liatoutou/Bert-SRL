@@ -1,5 +1,5 @@
 # Bert-SRL
-Code for finetuning pretrained BERT for SRL task and making predicitons
+Code for finetuning pretrained BERT for SRL task and making predictions
 
 ## Running instructions for train.py
 
@@ -17,7 +17,7 @@ example:
 
 ## Running instructions for predict.py
 
-1. If you haven't already installed the rwquired libraries:
+1. If you haven't already installed the required libraries:
 >pip install -r requirements.txt
 
 2. In the terminal :
